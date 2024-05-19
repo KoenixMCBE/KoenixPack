@@ -1,0 +1,24 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "koenox:magneton_shiny",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "textures": {
+                "default": "textures/entity/magneton_shiny"
+            },
+            "geometry": {
+                "default": "geometry.magneton_shiny"
+            },
+            "render_controllers": [
+                "controller.render.default"
+            ],
+            "spawn_egg": {
+                "base_color": "#505152",
+                "overlay_color": "#3b9dff"
+            }            
+        }
+    }
+}
