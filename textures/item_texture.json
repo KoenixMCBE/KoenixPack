@@ -1,0 +1,14 @@
+{
+  "resource_pack_name": "KoenixMC RP",
+  "texture_data": {
+    "koenox:pokeball": {
+      "textures": "textures/items/pokeball"
+    },
+    "koenox:superball": {
+      "textures": "textures/items/superball"
+    },
+    "koenox:masterball": {
+      "textures": "textures/items/masterball"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "KoenixMC RP",
+    "description": "Pack de ressources de KoenixMC",
+    "uuid": "749256d9-ad58-4b8d-8fb9-edbd1a9a1aad",
+    "version": [
+      1,
+      0,
+      12
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      30
+    ]
+  },
+  "modules": [
+    {
+      "description": "Pack de ressources de KoenixMC",
+      "type": "resources",
+      "uuid": "41a39474-9085-4d2f-93a6-8f0a510a30f3",
+      "version": [
+        1,
+        0,
+        12
+      ]
+    }
+  ],
+  "dependencies": []
+}
