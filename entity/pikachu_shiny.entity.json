@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "koenox:pikachu_shiny",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/pikachu_shiny"
+			},
+			"geometry": {
+				"default": "geometry.pikachu"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

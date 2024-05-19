@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "koenox:fantominus_shiny",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/fantominus_shiny"
+			},
+			"geometry": {
+				"default": "geometry.fantominus_shiny"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

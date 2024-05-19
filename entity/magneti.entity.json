@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "koenox:magneti",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/magneti"
+			},
+			"geometry": {
+				"default": "geometry.magneti"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

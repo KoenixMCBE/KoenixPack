@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "koenox:fantominus",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/fantominus"
+			},
+			"geometry": {
+				"default": "geometry.fantominus"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}
