@@ -13,6 +13,10 @@
 				"default": "geometry.magneti"
 			},
 			"render_controllers": ["controller.render.default"]
+			            "spawn_egg": {
+                "base_color": "#505152",
+                "overlay_color": "#3b9dff"
+            }     
 		}
 	}
 }
