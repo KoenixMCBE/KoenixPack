@@ -2,15 +2,15 @@
 	"format_version": "1.10.0",
 	"minecraft:client_entity": {
 		"description": {
-			"identifier": "koenox:magneti_shiny",
+			"identifier": "koenox:magnetie_shiny",
 			"materials": {
 				"default": "entity_alphatest"
 			},
 			"textures": {
-				"default": "textures/entity/magneti_shiny"
+				"default": "textures/entity/magnetie_shiny"
 			},
 			"geometry": {
-				"default": "geometry.magneti_shiny"
+				"default": "geometry.magnetie_shiny"
 			},
 			"render_controllers": ["controller.render.default"],
 			 "spawn_egg": {
