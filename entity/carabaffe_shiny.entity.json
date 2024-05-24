@@ -2,12 +2,12 @@
     "format_version": "1.10.0",
     "minecraft:client_entity": {
         "description": {
-            "identifier": "koenox:carabffe_shiny",
+            "identifier": "koenox:carabaffe_shiny",
             "materials": {
                 "default": "entity_alphatest"
             },
             "textures": {
-                "default": "textures/entity/carabffe_shiny"
+                "default": "textures/entity/carabaffe_shiny"
             },
             "geometry": {
                 "default": "geometry.carabffe_shiny"
