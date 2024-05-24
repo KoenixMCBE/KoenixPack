@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "geometry.tortank",
+				"identifier": "geometry.tortank_shiny",
 				"texture_width": 128,
 				"texture_height": 64,
 				"visible_bounds_width": 3,
