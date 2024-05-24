@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "koenox:dracaufeu_shiny",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/dracaufeu_shiny"
+			},
+			"geometry": {
+				"default": "geometry.dracaufeu"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}
